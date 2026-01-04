@@ -1,0 +1,10 @@
+baseURL = 'https://haitekki.github.io/'
+languageCode = 'fi-fi'
+title = 'Blogi - Juho Tervo'
+theme = 'hugo-bearblog'
+
+enableRobotsTXT = true
+
+[params]
+	description = "Kauhukertomuksia"
+	hideMadeWithLine = true
