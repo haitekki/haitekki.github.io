@@ -5,13 +5,13 @@ on:
       - main
         
 permissions:
-	contents: read
-	pages: write
-	id-token: write
+    contents: read
+    pages: write
+    id-token: write
 	
 concurrency:
-	group: "pages"
-	cancel-in-progress: true
+    group: "pages"
+    cancel-in-progress: true
 	 
 jobs:
   build:
@@ -19,19 +19,19 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-		with:
-			submodules: true
-			fetch-depth: 0
+        with:
+            submodules: true
+            fetch-depth: 0
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'
-          extended: true
+            hugo-version: 'latest'
+            extended: true
       - name: Build site
         run: hugo --minify
       - name: Upload Pages artifact
         uses: actions/uploag-pages-artifact@v3
-		with:
-			path: ./public
+        with:
+            path: ./public
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
