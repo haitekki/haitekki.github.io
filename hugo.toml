@@ -1,4 +1,4 @@
-baseURL = 'https://haitekki.github.io/'
+baseURL = 'https://juhotervo.fi'
 languageCode = 'fi-fi'
 title = 'Blogi - Juho Tervo'
 theme = 'hugo-bearblog'
