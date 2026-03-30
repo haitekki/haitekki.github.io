@@ -2,8 +2,11 @@ baseURL = 'https://juhotervo.fi'
 languageCode = 'fi-fi'
 title = 'Blogi - Juho Tervo'
 theme = 'hugo-bearblog'
+copyright = "Copyright © 2026, Juho Tervo."
 
 enableRobotsTXT = true
+
+dateFormat = "2006-01-02"
 
 [params]
 	description = "Kauhukertomuksia"
