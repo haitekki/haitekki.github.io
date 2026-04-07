@@ -143,7 +143,7 @@ Kauhu laskeutui Rasmuksen päälle kuin peitto. Hän pysähtyi särisevän loist
 
 Palattuaan tajuihinsa Rasmus makasi taukohuoneen sohvalla. Hän voi pahoin, päätä särki ja huimasi. Sohvan vieressä seisoivat sekä tohtori Kalm että yövartija, joka nyökkäsi tohtorille ja poistui paikalta huomattuaan Rasmuksen avaavan silmänsä.
 
-“Vartija löysi sinut käytävältä tajuttomana”, Kalm sanoi pehmeällä äänellä. Rasmuksen sekavaan mieleen palasi sykkyrälle kiertyvä käytävä, joka tuntui jo nyt sumuiselta kuin painajaisuni, ei lainkaan erilainen kuin mekaaniset linnut ja stadionin halki repäissyt helvetinkone. Jossakin aivojen perukoilla vielä sinnittelevä looginen mieli totesi tämän uusimman vaiheen olevan täysin johdonmukainen seuraava vaihe painajaisten kimaralle.
+“Vartija löysi sinut käytävältä tajuttomana”, Kalm sanoi pehmeällä äänellä. Rasmuksen sekavaan mieleen palasi sykkyrälle kiertyvä käytävä, joka tuntui jo nyt sumuiselta kuin painajaisuni, ei lainkaan erilainen kuin mekaaniset linnut ja stadionin halki repäissyt helvetinkone. Jossakin aivojen perukoilla vielä sinnittelevä looginen mieli totesi tämän uusimman vaiheen olevan täysin johdonmukainen seuraava askel painajaisten kimaralle.
 
 “Et ole ollut viime aikoina oma itsesi”, tohtori jatkoi huomattuaan, ettei Rasmus tuntunut olevan innokas osallistumaan keskusteluun, “sinulla on varmasti ollut paljon stressiä ja unettomuutta.”
 
