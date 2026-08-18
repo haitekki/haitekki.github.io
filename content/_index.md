@@ -10,6 +10,12 @@ Uusi teksti ilmestyy harvoin.
 
 ### Uutta
 
+#### 19.8.2026
+
+[Vanha hautausmaa](tarinat/vanha_hautausmaa) on julkaistu!
+
+Tarina ensimmäisen sodan veteraanista, joka ei tunnu saavan muistoiltaan rauhaa. 
+
 #### 1.4.2026
 
 [Konfiguraatio](tarinat/konfiguraatio) on julkaistu!
