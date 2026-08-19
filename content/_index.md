@@ -14,7 +14,7 @@ Uusi teksti ilmestyy harvoin.
 
 [Vanha hautausmaa](tarinat/vanha_hautausmaa) on julkaistu!
 
-Tarina ensimmäisen sodan veteraanista, joka ei tunnu saavan muistoiltaan rauhaa. 
+Tarina suuren sodan veteraanista, joka ei tunnu saavan muistoiltaan rauhaa. 
 
 #### 1.4.2026
 
